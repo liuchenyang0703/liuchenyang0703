@@ -12,7 +12,7 @@ Here are some ideas to get you started :-->
 - 😄 Read more about my CSDN: [A-刘晨阳](https://blog.csdn.net/liu_chen_yang?type=blog)
 - ⚡ Read more about my Blog: [Liucy知识库](http://liuchenyang.top)
 
-You are my ![Visitor Count](https://profile-counter.glitch.me/wisdom-zhe/count.svg) visitor,Thank You!
+你是我的第 ![Visitor Count](https://profile-counter.glitch.me/wisdom-zhe/count.svg) 个访客，谢谢你的访问！
 
 ## ✨ 我的技术栈   
 
