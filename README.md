@@ -21,6 +21,7 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/wisdom-zhe/count.s
 ![](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=fff)
 ![](https://img.shields.io/badge/-Podman-892CA0?style=flat-square&logo=Podman&logoColor=fff)
 ![](https://img.shields.io/badge/-Zabbix-DC382D?style=flat-square&logo=zabbix&logoColor=fff)
+![](https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=Prometheus&logoColor=fff)
 ![](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=Nginx&logoColor=fff)
 ![](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=fff)
 ![](https://img.shields.io/badge/-Ansible-000000?style=flat-square&logo=Ansible&logoColor=fff)
