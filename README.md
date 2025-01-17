@@ -1,16 +1,18 @@
-## Hi there 👋，I'm Liucy.
+## (｡･∀･)ﾉﾞ嗨 你好 👋，我是 Mr.Liucy
 
 
-<!-- **liuchenyang0703/liuchenyang0703** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.  
+<!-- **liuchenyang0703/liuchenyang0703** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. Here are some ideas to get you started :-->
 
-Here are some ideas to get you started :-->
+<a href="https://chodocs.cn/"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" height="275" /></a>
 
-- 🔭 I’m currently working in Beijing
-- 🌱 I’m currently learning Cloud Computing
-- 💬 You can ask me some questions about Linux 
-- 📫 How to reach me: 2162059863@qq.com
+
+- 🔭 目前工作地点：北京
+- 🌱 目前学习内容：云计算、运维、前端（副）等
+- 💬 你可以和我讨论一些关于Linux相关的知识，可以发送内容到邮箱或者公众号。
+- 📫 有问题可发送至邮箱号或公众号: 2162059863@qq.com | 小刘Linux
+- 🍉 活跃社区：[CSDN](https://blog.csdn.net/liu_chen_yang?type=blog) | [ToLiucyLinux](https://liuchenyang.top) |  [ToLiucyLinux](https://liuchenyang0703.github.io/ToLiucyLinux/) 
 - 😄 Read more about my CSDN: [A-刘晨阳](https://blog.csdn.net/liu_chen_yang?type=blog)
-- ⚡ Read more about my Blog: [Liucy知识库](http://liuchenyang.top)
+- ⚡ Read more about my Blog: [ToLiucyLinux](https://liuchenyang.top) |  [ToLiucyLinux](https://liuchenyang0703.github.io/ToLiucyLinux/) 
 
 你是我的第 ![Visitor Count](https://profile-counter.glitch.me/wisdom-zhe/count.svg) 个访客，谢谢你的访问！
 
@@ -62,6 +64,10 @@ Here are some ideas to get you started :-->
 ![](https://stats.justsong.cn/api/csdn?id=liu_chen_yang&theme=dark)
 ![](https://stats.justsong.cn/api/juejin?id=1522190805637534&theme=dark)
 ![](https://stats.justsong.cn/api/zhihu?id=liu_chen_yang&theme=dark)
+
+---
+
+[![profile](https://github-profile-trophy.vercel.app/?username=liuchenyang0703&theme=algolia&column=8)](https://github-profile-trophy.vercel.app/?username=liuchenyang0703&theme=algolia&column=8)
 
 ## 交个朋友 👬🏻
 
