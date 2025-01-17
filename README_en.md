@@ -1,16 +1,18 @@
-## Hi there 👋，I'm Liucy.
+## Hi there 👋，I'm Mr.Liucy
 
 
-<!-- **liuchenyang0703/liuchenyang0703** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.  
+<!-- **liuchenyang0703/liuchenyang0703** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. Here are some ideas to get you started :-->
 
-Here are some ideas to get you started :-->
+<a href="https://chodocs.cn/"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" height="275" /></a>
+
 
 - 🔭 I’m currently working in Beijing
-- 🌱 I’m currently learning Cloud Computing
-- 💬 You can ask me some questions about Linux 
-- 📫 How to reach me: 2162059863@qq.com
+- 🌱 Current learning content: cloud computing, operations, front-end (sub), etc
+- 💬 You can ask me some questions about Linux 。
+- 📫 How to contact my email or official account: 2162059863@qq.com | 小刘Linux
+- 🍉 Active Community：[CSDN](https://blog.csdn.net/liu_chen_yang?type=blog) | [ToLiucyLinux](https://liuchenyang.top) |  [ToLiucyLinux](https://liuchenyang0703.github.io/ToLiucyLinux/) 
 - 😄 Read more about my CSDN: [A-刘晨阳](https://blog.csdn.net/liu_chen_yang?type=blog)
-- ⚡ Read more about my Blog: [Liucy知识库](http://liuchenyang.top)
+- ⚡ Read more about my Blog: [ToLiucyLinux](https://liuchenyang.top) |  [ToLiucyLinux](https://liuchenyang0703.github.io/ToLiucyLinux/) 
 
 You are my ![Visitor Count](https://profile-counter.glitch.me/wisdom-zhe/count.svg) visitor,Thank You!
 
@@ -62,6 +64,10 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/wisdom-zhe/count.s
 ![](https://stats.justsong.cn/api/csdn?id=liu_chen_yang&theme=dark)
 ![](https://stats.justsong.cn/api/juejin?id=1522190805637534&theme=dark)
 ![](https://stats.justsong.cn/api/zhihu?id=liu_chen_yang&theme=dark)
+
+---
+
+[![profile](https://github-profile-trophy.vercel.app/?username=liuchenyang0703&theme=algolia&column=8)](https://github-profile-trophy.vercel.app/?username=liuchenyang0703&theme=algolia&column=8)
 
 ## Make a friend 👬🏻
 
