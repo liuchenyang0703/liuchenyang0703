@@ -88,7 +88,7 @@
 ---
 
 <p align="center">
-  <a href="https://love.xingji.fun">
+  <a>
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=liuchenyang0703&theme=github-compact&custom_title=Activity&radius=30&height=300" alt="Activity">
   </a>
 </p>
