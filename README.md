@@ -14,6 +14,7 @@
 - 😄 Read more about my CSDN: [A-刘晨阳](https://blog.csdn.net/liu_chen_yang?type=blog)
 - ⚡ Read more about my Blog: [ToLiucyLinux](https://liuchenyang.top) |  [ToLiucyLinux](https://liuchenyang0703.github.io/ToLiucyLinux/) 
 
+你是我的第 ![ 统计访问次数 ](https://profile-counter.glitch.me/liuchenyang0703/count.svg) 个访客，谢谢你的关注和访问！
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI%20THERE!&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20AM%20LIUCY%20%F0%9F%91%8B&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
@@ -22,17 +23,6 @@
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page!;I+am+LIUCY+obsessed+with+programming!" />
 </p>
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/liuchenyang0703/liuchenyang0703/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/liuchenyang0703/liuchenyang0703/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/liuchenyang0703/liuchenyang0703/output/github-contribution-grid-snake.svg">
-</picture>
-
-
-你是我的第 ![ 统计访问次数 ](https://profile-counter.glitch.me/liuchenyang0703/count.svg) 个访客，谢谢你的关注和访问！
-
 
 
 
@@ -88,6 +78,15 @@
 ---
 
 [![profile](https://github-profile-trophy.vercel.app/?username=liuchenyang0703&theme=algolia&column=8)](https://github-profile-trophy.vercel.app/?username=liuchenyang0703&theme=algolia&column=8)
+
+## ✨ 我的小游戏
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/liuchenyang0703/liuchenyang0703/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/liuchenyang0703/liuchenyang0703/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/liuchenyang0703/liuchenyang0703/output/github-contribution-grid-snake.svg">
+</picture>
+
 
 ## 交个朋友 👬🏻
 
