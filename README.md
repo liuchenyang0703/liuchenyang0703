@@ -23,6 +23,14 @@
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page!;I+am+LIUCY+obsessed+with+programming!" />
 </p>
 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/liuchenyang0703/liuchenyang0703/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/liuchenyang0703/liuchenyang0703/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/liuchenyang0703/liuchenyang0703/output/github-contribution-grid-snake.svg">
+</picture>
+
+
 你是我的第 ![ 统计访问次数 ](https://profile-counter.glitch.me/liuchenyang0703/count.svg) 个访客，谢谢你的关注和访问！
 
 
