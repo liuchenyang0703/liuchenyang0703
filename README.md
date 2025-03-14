@@ -14,7 +14,7 @@
 - 😄 Read more about my CSDN: [A-刘晨阳](https://blog.csdn.net/liu_chen_yang?type=blog)
 - ⚡ Read more about my Blog: [ToLiucyLinux](https://liuchenyang.top) |  [ToLiucyLinux](https://liuchenyang0703.github.io/ToLiucyLinux/) 
 
-你是我的第 ![ 统计访问次数 ](https://profile-counter.glitch.me/liuchenyang0703/count.svg) 个访客，谢谢你的关注和访问！
+你是我的第 ![ 统计访问次数 ](https://profile-counter.glitch.me/liuchenyang0703/count.svg) 个访客，谢谢你的访问！
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI%20THERE!&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20AM%20LIUCY%20%F0%9F%91%8B&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
@@ -59,6 +59,16 @@
 ![](https://img.shields.io/badge/-openEuler-0033A0?style=flat-square&logo=openEuler&logoColor=fff)
 ![](https://img.shields.io/badge/-VMware%20ESXi-607078?style=flat-square&logo=VMware&logoColor=fff)
 ![](https://img.shields.io/badge/-SUSE-0C722F?style=flat-square&logo=SUSE&logoColor=fff)
+
+## 📲 网站运营
+
+| Icon         | Name             | Link                                               |
+|--------------|------------------|----------------------------------------------------|
+| 🏠 Home      | 个人主页         | [https://liuchenyang0703.github.io/](https://liuchenyang0703.github.io/)  |
+| 🪄 Blog      | 个人博客         | [https://liuchenyang0703.github.io/ToLiucyLinux/](https://liuchenyang0703.github.io/ToLiucyLinux/) |
+| 🪄 Blog      | 个人博客         | [https://liuchenyang.top](https://liuchenyang.top) |
+| 🕒 time | 时间计算器         | [https://liuchenyang0703.github.io/time/](https://liuchenyang0703.github.io/time/) |
+| 𝖂 weird-fonts | 奇怪的字体库         | [https://liuchenyang0703.github.io/weird-fonts/](https://liuchenyang0703.github.io/weird-fonts/) |  
 
 
 ## 今年汇总(This year's summary) ✨
