@@ -77,17 +77,24 @@
 ![GitHub 连续打卡](https://streak-stats.demolab.com/?user=liuchenyang0703)                           ![修仙系列统计卡片](https://github-immortality.vercel.app/api?username=liuchenyang0703)
 
 
-
-
 ### 我的成就 🏅
 ![](https://stats.justsong.cn/api/github?username=liuchenyang0703&theme=dark)
 ![](https://stats.justsong.cn/api/csdn?id=liu_chen_yang&theme=dark)
 ![](https://stats.justsong.cn/api/juejin?id=1522190805637534&theme=dark)
 ![](https://stats.justsong.cn/api/zhihu?id=liu_chen_yang&theme=dark)
 
+
+## 🚀 我的github活动 
 ---
 
-[![profile](https://github-profile-trophy.vercel.app/?username=liuchenyang0703&theme=algolia&column=8)](https://github-profile-trophy.vercel.app/?username=liuchenyang0703&theme=algolia&column=8)
+<p align="center">
+  <a href="https://love.xingji.fun">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=liuchenyang0703&theme=github-compact&custom_title=Activity&radius=30&height=300" alt="Activity">
+  </a>
+</p>
+
+
+[![GitHub资料奖杯](https://github-profile-trophy.vercel.app/?username=liuchenyang0703&theme=algolia&column=8)](https://github-profile-trophy.vercel.app/?username=liuchenyang0703&theme=algolia&column=8)
 
 ## ✨ 我的小游戏
 
@@ -105,4 +112,9 @@
 
 <!-- - 👯 I’m looking to collaborate on ... 
 - 🤔 I’m looking for help with ... -->
+
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=THE%20END!&fontSize=90&fontAlign=50&fontAlignY=70&desc=Hope%20your%20program%20is%20bug-free!&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
+</p>
 
