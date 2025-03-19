@@ -96,6 +96,9 @@
 
 [![GitHub资料奖杯](https://github-profile-trophy.vercel.app/?username=liuchenyang0703&theme=algolia&column=8)](https://github-profile-trophy.vercel.app/?username=liuchenyang0703&theme=algolia&column=8)
 
+![](./profile-3d-contrib/profile-night-rainbow.svg)
+
+
 ## ✨ 我的小游戏
 
 <picture>
