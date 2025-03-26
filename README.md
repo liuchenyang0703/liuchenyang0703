@@ -65,8 +65,10 @@
 | Icon         | Name             | Link                                               |
 |--------------|------------------|----------------------------------------------------|
 | 🏠 Home      | 个人主页         | [https://liuchenyang0703.github.io/](https://liuchenyang0703.github.io/)  |
+| 🏠 Home      | 个人主页         | [https://liuchenyang0703.github.io/guide/](https://liuchenyang0703.github.io/guide/)  |
 | 🪄 Blog      | 个人博客         | [https://liuchenyang0703.github.io/ToLiucyLinux/](https://liuchenyang0703.github.io/ToLiucyLinux/) |
 | 🪄 Blog      | 个人博客         | [https://liuchenyang.top](https://liuchenyang.top) |
+| 🧭 Nav      | 个人导航页         | [https://liuchenyang0703.github.io/nav/](https://liuchenyang0703.github.io/nav/) |
 | 🕒 time | 时间计算器         | [https://liuchenyang0703.github.io/time/](https://liuchenyang0703.github.io/time/) |
 | 𝖂 weird-fonts | 奇怪的字体库         | [https://liuchenyang0703.github.io/weird-fonts/](https://liuchenyang0703.github.io/weird-fonts/) |  
 
