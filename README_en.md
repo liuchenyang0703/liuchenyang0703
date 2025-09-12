@@ -14,7 +14,14 @@
 - 😄 Read more about my CSDN: [A-刘晨阳](https://blog.csdn.net/liu_chen_yang?type=blog)
 - ⚡ Read more about my Blog: [ToLiucyLinux](https://liuchenyang.top) |  [ToLiucyLinux](https://liuchenyang0703.github.io/ToLiucyLinux/) 
 
-You are my ![Visitor Count](https://profile-counter.glitch.me/wisdom-zhe/count.svg) visitor,Thank You!
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI%20THERE!&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20AM%20LIUCY%20%F0%9F%91%8B&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page!;I+am+LIUCY+obsessed+with+programming!" />
+</p>
+
 
 ## ✨ My technology stack   
 
@@ -51,12 +58,30 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/wisdom-zhe/count.s
 ![](https://img.shields.io/badge/-SUSE-0C722F?style=flat-square&logo=SUSE&logoColor=fff)
 
 
+
+## 📲 Website Operation
+
+| Icon         | Name             | Link                                               |
+|--------------|------------------|----------------------------------------------------|
+| 🏠 Home      | Personal Homepage         | [https://liuchenyang0703.github.io/](https://liuchenyang0703.github.io/)  |
+| 🏠 Home      | Personal Homepage         | [https://liuchenyang0703.github.io/guide/](https://liuchenyang0703.github.io/guide/)  |
+| 🪄 Blog      | personal blog         | [https://liuchenyang0703.github.io/ToLiucyLinux/](https://liuchenyang0703.github.io/ToLiucyLinux/) |
+| 🪄 Blog      | personal blog         | [https://liuchenyang.top](https://liuchenyang.top) |
+| 🧭 Nav      | Personal Navigation Page         | [https://liuchenyang0703.github.io/nav/](https://liuchenyang0703.github.io/nav/) |
+| 🧭 Nav      | Personal Navigation Page         | [https://liuchenyang.top/nav/](https://liuchenyang.top/nav/) |
+| 🕒 time | Time Calculator         | [https://liuchenyang0703.github.io/time/](https://liuchenyang0703.github.io/time/) |
+| 𝖂 weird-fonts | Strange font library   | [https://liuchenyang0703.github.io/weird-fonts/](https://liuchenyang0703.github.io/weird-fonts/) |  
+|CSDN|Batch query of CSDN article quality scores|[http://liuchenyang.top:8000](http://liuchenyang.top:8000)|
+
+
+
 ## Summary for this year (This year's summary) ✨
 <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=liuchenyang0703&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite"/><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liuchenyang0703&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite"/>
 
+![GitHub 连续打卡](https://streak-stats.demolab.com/?user=liuchenyang0703)                           ![修仙系列统计卡片](https://github-immortality.vercel.app/api?username=liuchenyang0703)
+
+
 <!-- <img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liuchenyang0703&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn"/> -->
-
-
 
 
 ### My Achievements 🏅
@@ -65,9 +90,25 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/wisdom-zhe/count.s
 ![](https://stats.justsong.cn/api/juejin?id=1522190805637534&theme=dark)
 ![](https://stats.justsong.cn/api/zhihu?id=liu_chen_yang&theme=dark)
 
+## 🚀 My GitHub activity
 ---
 
+<p align="center">
+  <a>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=liuchenyang0703&theme=github-compact&custom_title=Activity&radius=30&height=300" alt="Activity">
+  </a>
+</p>
+
 [![profile](https://github-profile-trophy.vercel.app/?username=liuchenyang0703&theme=algolia&column=8)](https://github-profile-trophy.vercel.app/?username=liuchenyang0703&theme=algolia&column=8)
+
+## ✨ My small game
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/liuchenyang0703/liuchenyang0703/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/liuchenyang0703/liuchenyang0703/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/liuchenyang0703/liuchenyang0703/output/github-contribution-grid-snake.svg">
+</picture>
+
 
 ## Make a friend 👬🏻
 
@@ -76,4 +117,10 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/wisdom-zhe/count.s
 
 <!-- - 👯 I’m looking to collaborate on ... 
 - 🤔 I’m looking for help with ... -->
+
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=THE%20END!&fontSize=90&fontAlign=50&fontAlignY=70&desc=Hope%20your%20program%20is%20bug-free!&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
+</p>
+
 
