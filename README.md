@@ -14,7 +14,6 @@
 - 😄 Read more about my CSDN: [A-刘晨阳](https://blog.csdn.net/liu_chen_yang?type=blog)
 - ⚡ Read more about my Blog: [ToLiucyLinux](https://liuchenyang.top) |  [ToLiucyLinux](https://liuchenyang0703.github.io/ToLiucyLinux/) 
 
-你是我的第 ![ 统计访问次数 ](https://profile-counter.glitch.me/liuchenyang0703/count.svg) 个访客，谢谢你的访问！
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI%20THERE!&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20AM%20LIUCY%20%F0%9F%91%8B&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
@@ -69,8 +68,10 @@
 | 🪄 Blog      | 个人博客         | [https://liuchenyang0703.github.io/ToLiucyLinux/](https://liuchenyang0703.github.io/ToLiucyLinux/) |
 | 🪄 Blog      | 个人博客         | [https://liuchenyang.top](https://liuchenyang.top) |
 | 🧭 Nav      | 个人导航页         | [https://liuchenyang0703.github.io/nav/](https://liuchenyang0703.github.io/nav/) |
+| 🧭 Nav      | 个人导航页         | [https://liuchenyang.top/nav/](https://liuchenyang.top/nav/) |
 | 🕒 time | 时间计算器         | [https://liuchenyang0703.github.io/time/](https://liuchenyang0703.github.io/time/) |
 | 𝖂 weird-fonts | 奇怪的字体库         | [https://liuchenyang0703.github.io/weird-fonts/](https://liuchenyang0703.github.io/weird-fonts/) |  
+|CSDN|CSDN文章质量分批量查询|[http://liuchenyang.top:8000](http://liuchenyang.top:8000)|
 
 
 ## 今年汇总(This year's summary) ✨
