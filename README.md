@@ -82,7 +82,7 @@
 
 <div style="display: flex; align-items: center;">
   <img align="left" width="150"  src="https://gcore.jsdelivr.net/gh/liuchenyang0703/blog-images@main/images/left.png" />
-  <img align="GitHub 连续打卡" whdth="150" src="https://streak-stats.demolab.com/?user=liuchenyang0703" />
+  <img align="GitHub 连续打卡" whdth="150" src="https://streak-stats.demolab.com/?user=liuchenyang0703&locale=zh_Hans" />
   <img align="right" width="150"  src="https://gcore.jsdelivr.net/gh/liuchenyang0703/blog-images@main/images/right.png" />
 </div>
 
