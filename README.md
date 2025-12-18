@@ -77,10 +77,13 @@
 ## 今年汇总(This year's summary) ✨
 <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=liuchenyang0703&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn"/><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liuchenyang0703&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn"/> 
 
-<img align="left" width="150"  src="https://gcore.jsdelivr.net/gh/liuchenyang0703/blog-images@main/images/left.png" />
-![GitHub 连续打卡](https://streak-stats.demolab.com/?user=liuchenyang0703)              
-<img align="right" width="150"  src="https://gcore.jsdelivr.net/gh/liuchenyang0703/blog-images@main/images/right.png" />
-![修仙系列统计卡片](https://github-immortality.vercel.app/api?username=liuchenyang0703)
+
+<div style="display: flex; align-items: center;">
+  <img align="left" width="150"  src="https://gcore.jsdelivr.net/gh/liuchenyang0703/blog-images@main/images/left.png" />
+  <img align="GitHub 连续打卡" whdth="150" src="https://streak-stats.demolab.com/?user=liuchenyang0703" />
+  <img align="right" width="150"  src="https://gcore.jsdelivr.net/gh/liuchenyang0703/blog-images@main/images/right.png" />
+</div>
+
 
 
 ### 我的成就 🏅
