@@ -84,9 +84,9 @@
   <img align="right" width="150"  src="https://gcore.jsdelivr.net/gh/liuchenyang0703/blog-images@main/images/right.png" />
 </div>
 
-<div style="text-align: center;">
+<p align="center">
   <img src="https://github-immortality.vercel.app/api?username=liuchenyang0703" alt="修仙系列统计卡片" />
-</div>
+</p>
 
 
 
