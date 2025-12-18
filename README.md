@@ -93,10 +93,12 @@
 
 
 ### 我的成就 🏅
-![](https://stats.justsong.cn/api/github?username=liuchenyang0703&theme=dark)
-![](https://stats.justsong.cn/api/csdn?id=liu_chen_yang&theme=dark)
-![](https://stats.justsong.cn/api/juejin?id=1522190805637534&theme=dark)
-![](https://stats.justsong.cn/api/zhihu?id=liu_chen_yang&theme=dark)
+<p align="center">
+  <img src="https://stats.justsong.cn/api/github?username=liuchenyang0703&theme=dark&lang=zh-CN" />
+  <img src="https://stats.justsong.cn/api/csdn?id=liu_chen_yang&theme=dark&lang=zh-CN" />
+  <img src="https://stats.justsong.cn/api/juejin?id=1522190805637534&theme=dark&lang=zh-CN" />
+  <img src="https://stats.justsong.cn/api/zhihu?id=liu_chen_yang&theme=dark&lang=zh-CN" />
+</p>
 
 
 ## 🚀 我的github活动 
