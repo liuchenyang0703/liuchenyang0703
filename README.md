@@ -71,7 +71,8 @@
 | 🧭 Nav      | 个人导航页         | [https://liuchenyang.top/nav/](https://liuchenyang.top/nav/) |
 | 🕒 time | 时间计算器         | [https://liuchenyang0703.github.io/time/](https://liuchenyang0703.github.io/time/) |
 | 𝖂 weird-fonts | 奇怪的字体库         | [https://liuchenyang0703.github.io/weird-fonts/](https://liuchenyang0703.github.io/weird-fonts/) |  
-|CSDN|CSDN文章质量分批量查询|[http://liuchenyang.top:8000](http://liuchenyang.top:8000)|
+|CSDN|CSDN文章质量分批量查询|[https://liuchenyang.top:8000](https://liuchenyang.top:8000)|
+|Kubernetes|k8s yaml文件生成器|[https://liuchenyang.top/kubernetes/](https://liuchenyang.top/kubernetes/)|
 
 
 ## 今年汇总(This year's summary) ✨
