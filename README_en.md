@@ -72,6 +72,7 @@
 | 🕒 time | Time Calculator         | [https://liuchenyang0703.github.io/time/](https://liuchenyang0703.github.io/time/) |
 | 𝖂 weird-fonts | Strange font library   | [https://liuchenyang0703.github.io/weird-fonts/](https://liuchenyang0703.github.io/weird-fonts/) |  
 |CSDN|Batch query of CSDN article quality scores|[http://liuchenyang.top:8000](http://liuchenyang.top:8000)|
+|Kubernetes|k8s yaml file generator|[https://liuchenyang.top/kubernetes/](https://liuchenyang.top/kubernetes/)|
 
 
 
